@@ -1,5 +1,0 @@
-#This is a demo Image
-FROM openjdk:8-jdk-alpine
-MAINTAINER 827199810@qq.com
-
-copy WordCount.jar WordCount.jar
